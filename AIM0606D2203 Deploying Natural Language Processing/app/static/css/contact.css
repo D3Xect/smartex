@@ -1,0 +1,48 @@
+
+
+section#contact {
+    /* background-color: #d7d7d7; */
+}
+
+section#contact h3,p {
+    text-align: center;
+    font-size: 50px;
+    color: azure;
+}
+
+section#contact p {
+    text-align: center;
+    /* color: #ababab; */
+    color: azure;
+    font-size: 18px;
+}
+
+/* #contact .copyright {
+    font-size: 15px;
+}
+
+#contact .layar-dalam p {
+    font-size: 14px;
+} */
+
+footer .layar-dalam .copyright {
+    width: 100%;
+    margin-top: 85px;
+    padding-top: 25px;
+    border-top: 1px solid #666;
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+p {
+    color: azure;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+    color: azure;
+}

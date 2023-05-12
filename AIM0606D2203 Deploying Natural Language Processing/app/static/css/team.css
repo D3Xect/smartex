@@ -1,0 +1,25 @@
+
+.team
+ {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.team h6 {
+    margin: 0px;
+    margin-top: 10px;
+    padding: 0px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.team div {
+    text-align: center;
+    width: 26%;
+}
+
+#team
+{
+    text-align: center;
+}
